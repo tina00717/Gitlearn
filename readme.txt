@@ -1,5 +1,5 @@
 git is a distributed control system.
-git is free software.
+git is a_issue free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 $ git add readme.txt   --- add txt from workarea to queue
