@@ -7,5 +7,4 @@ $ git commit -m"comments"   --- commit files in queue to repoitory.
 $ git push origin master   --- push local file in your computer to Github.
 $ git branch dev  ---create a new branch 'dev'
 $ git checkout dev ---switch to branch 'dev'
-test for merge branch
---no ff to merge branch
+$ git branch -d 'branch name' ---delete a branch
