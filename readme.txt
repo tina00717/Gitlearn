@@ -8,4 +8,4 @@ $ git push origin master   --- push local file in your computer to Github.
 $ git branch dev  ---create a new branch 'dev'
 $ git checkout dev ---switch to branch 'dev'
 test for merge branch
-
+--no ff to merge branch
