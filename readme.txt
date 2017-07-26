@@ -10,3 +10,6 @@ $ git checkout dev ---switch to branch 'dev'
 $ git checkout -b feature-vulcan ---create and switch to a new branch
 $ git branch -d 'branch name' ---delete a branch
 $ git log --pretty=oneline --abbrev-commit ----check log infomation.
+$ git lg ---an alias to show log history in a colorful way.
+
+$cd ---back to main content.
