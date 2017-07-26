@@ -9,3 +9,4 @@ $ git branch dev  ---create a new branch 'dev'
 $ git checkout dev ---switch to branch 'dev'
 $ git checkout -b feature-vulcan ---create and switch to a new branch
 $ git branch -d 'branch name' ---delete a branch
+$ git log --pretty=oneline --abbrev-commit ----check log infomation.
